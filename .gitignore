@@ -1,0 +1,15 @@
+home
+boot
+bin
+sbin
+tmp
+run
+sys
+lib32
+lib64
+media
+mnt
+dev
+lib
+root
+proc
