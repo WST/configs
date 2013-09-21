@@ -5,3 +5,4 @@
 #<ip-address>	<hostname.domain.org>	<hostname>
 127.0.0.1	localhost.localdomain	localhost c.local kprf.local webline-masters.local blog.webline-masters.local test.local portal.local jabberid.local pe.local resume.local jakarta
 ::1		localhost.localdomain	localhost jakarta
+192.30.252.131	github.com
